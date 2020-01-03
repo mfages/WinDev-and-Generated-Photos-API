@@ -23,3 +23,8 @@ Ce projet est un simple divertissement consistant à utiliser l'API Generated Ph
 
 ## Questions / Commentaires
 A adresser par email à michel@fages.com
+
+## Copies d'écran
+
+![SC1](https://i.ibb.co/kXydz9p/fen1.png)
+![SC2](https://i.ibb.co/Z105tGy/fen2.png)
